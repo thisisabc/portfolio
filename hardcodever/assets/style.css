@@ -45,3 +45,8 @@ a {
   font-size: 0.6em;
   font-weight: 500;
 }
+
+a:hover {
+  color: white;
+  background-color: #0000ff;
+}
