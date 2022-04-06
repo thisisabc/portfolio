@@ -1,5 +1,6 @@
 {
   "identifier" : "5ED9C117-5A09-42DC-85F5-CDD31F2B60C5",
+  "remotePath" : "\/www",
   "server" : "anne.cafe",
-  "usesPublishing" : false
+  "usesPublishing" : true
 }
